@@ -1,5 +1,5 @@
 FROM centos:7
-mkdir naren
+CMD mkdir naren
 
 
 
